@@ -46,32 +46,11 @@ fzf
 git
 github-cli
 
-# GNOME-related packages
-# gnome
-gdm
-gnome-backgrounds
-gnome-characters
-# gnome-color-manager
-gnome-control-center
-gnome-font-viewer
-gnome-keyring
-gnome-screenshot
-gnome-session
-gnome-settings-daemon
-gnome-shell
-gnome-shell-extensions
-# gnome-software
-gnome-system-monitor
-gedit
-gnome-terminal
-# gnome-text-editor
-# gnome-tour
-gnome-user-share
-nautilus
-loupe
-xdg-desktop-portal-gnome
-xdg-user-dirs-gtk
-
+# Swayfx related packages
+swayfx
+swayosd-git
+sway-nvidia
+swaylock
 
 
 # gnu-netcat
